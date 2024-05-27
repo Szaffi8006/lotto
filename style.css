@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#message {
+   font-style: oblique;
+   color: mediumblue;
+   padding-top: 10px;
+   font-size: larger;
+}
